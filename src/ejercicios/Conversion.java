@@ -28,6 +28,7 @@ public class Conversion {
         farenheit = y;
         kelvin = z;
     }
+    //HOLAA
     //deinir metodos
     double calcularCentigradosAFarenheit(){
         double f;
